@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cp-betting-wheel/static/css/main.96a4d837.chunk.css",
+    "main.js": "/cp-betting-wheel/static/js/main.6caaaea5.chunk.js",
+    "main.js.map": "/cp-betting-wheel/static/js/main.6caaaea5.chunk.js.map",
+    "runtime-main.js": "/cp-betting-wheel/static/js/runtime-main.8a882028.js",
+    "runtime-main.js.map": "/cp-betting-wheel/static/js/runtime-main.8a882028.js.map",
+    "static/js/2.93f94c7b.chunk.js": "/cp-betting-wheel/static/js/2.93f94c7b.chunk.js",
+    "static/js/2.93f94c7b.chunk.js.map": "/cp-betting-wheel/static/js/2.93f94c7b.chunk.js.map",
+    "static/js/3.c8af3cea.chunk.js": "/cp-betting-wheel/static/js/3.c8af3cea.chunk.js",
+    "static/js/3.c8af3cea.chunk.js.map": "/cp-betting-wheel/static/js/3.c8af3cea.chunk.js.map",
+    "index.html": "/cp-betting-wheel/index.html",
+    "static/css/main.96a4d837.chunk.css.map": "/cp-betting-wheel/static/css/main.96a4d837.chunk.css.map",
+    "static/js/2.93f94c7b.chunk.js.LICENSE.txt": "/cp-betting-wheel/static/js/2.93f94c7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a882028.js",
+    "static/js/2.93f94c7b.chunk.js",
+    "static/css/main.96a4d837.chunk.css",
+    "static/js/main.6caaaea5.chunk.js"
+  ]
+}
